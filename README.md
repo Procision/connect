@@ -10,3 +10,4 @@ Want to join the project? I will invite you.
 
 ## To-do
 * Fix responsiveness / login page is distorted on mobile
+* Fix broken home page
